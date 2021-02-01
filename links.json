@@ -7,6 +7,10 @@
     {
       "slug": "melon",
       "to": "https://www.youtube.com/watch?v=h1hW2GzaJPE" 
+    },
+    {
+      "slug": "jan21-pr",
+      "to": "https://medium.com/dot-blog/dot-progress-report-1-14dfbc9dc934" 
     }
   ]
 }
