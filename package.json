@@ -1,22 +1,11 @@
 {
-  "name": "thing",
+  "name": "Personal Redirects Site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dothq/thing.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dothq/thing/issues"
-  },
-  "homepage": "https://github.com/dothq/thing#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
